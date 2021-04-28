@@ -15,6 +15,7 @@
   - [Setup](#setup)
   - [Features](#features)
   - [Status](#status)
+  - [Inspiration](#inspiration)
   - [Contact](#contact)
 
 ## Tables of truth for operators
@@ -96,6 +97,9 @@ or ```getFormula``` eg.
 ## Status
 Project is: _in completed_
 
+## Inspiration
+1. [Video](https://www.youtube.com/watch?v=dDtZLm7HIJs) about parsers by Professor Graham Hutton
+2. [Book](http://www.cs.nott.ac.uk/~pszgmh/pih.html) about programming in Haskell
 ## Contact
 Created by [@HondaPL](https://hacia.students.wmi.amu.edu.pl/) 2021
 

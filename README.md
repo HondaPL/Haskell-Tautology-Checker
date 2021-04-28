@@ -77,7 +77,7 @@ Then you can run ```runFormula``` eg.
 
 ![Example screenshot](images/test3.png)
 
-or getFormula eg.
+or ```getFormula``` eg.
 ![Example screenshot](images/test4.png)
 
 

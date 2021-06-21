@@ -95,7 +95,7 @@ or ```getFormula``` eg.
 * Checking if it's a tautology
 
 ## Status
-Project is: _in completed_
+Project is: _completed_
 
 ## Inspiration
 1. [Video](https://www.youtube.com/watch?v=dDtZLm7HIJs) about parsers by Professor Graham Hutton
